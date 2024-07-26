@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Venu Soni
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning nodejs.
-- 📫 How to reach me venu27@gmail.com 
+- 📫 How to reach me venu27soni@gmail.com 
 
 
 
